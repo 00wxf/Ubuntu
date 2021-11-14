@@ -46,6 +46,8 @@ void set_bit(unsigned * x,
     }
     
   //  return *x;
+  
+  
 }
 // Flip the nth bit of the value of x.
 // Assume 0 <= n <= 31
