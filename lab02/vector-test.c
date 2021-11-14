@@ -31,6 +31,7 @@ int main(int argc, char **argv) {
     vector_set(v, 25, 43);
 
     printf("These should be equal:\n");
+    
     printf("98 = %d\n", vector_get(v, 0));
     printf("15 = %d\n", vector_get(v, 11));
     printf("65 = %d\n", vector_get(v, 24));
